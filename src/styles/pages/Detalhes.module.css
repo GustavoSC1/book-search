@@ -1,0 +1,37 @@
+.detailContainer {
+    padding: 3rem; /* 30px */
+    /*background-color: #e4e1e1;*/
+    margin: 20px 0px;
+}
+
+.bookTitle {
+    font-size: 2.8rem;
+    font-weight: bold;
+    line-height: 3.2rem;
+    color: #212353;
+    margin: 0;
+}
+
+.bookImage {
+    width: 221px;
+    height: 325px;
+    margin: 1.5rem;
+    margin-left: 0;
+    float: left;    
+}
+
+.bookAutor {
+    font-weight: bold;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    color: #212353;
+    margin: 0;
+}
+
+.bookDetail {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    text-align: justify;  
+    margin: 1.5rem;
+    margin-left: 0;
+}

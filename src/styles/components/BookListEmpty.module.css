@@ -1,0 +1,10 @@
+.listEmptyCabecalho {
+    text-align: center;
+    padding: 110px 0;
+}
+
+.listEmptyImg {
+    height: 150px;
+    width: 150px;
+    opacity: 0.2;
+}
